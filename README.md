@@ -1,2 +1,4 @@
-# inMemoryShellcode
-A Collection of In-Memory Shellcode Execution Techniques for Windows
+# In-Memory Shellcode
+This repo contains PoCs for my blog post on In-Memory shellcode execution techniques at:
+
+**TBA**
