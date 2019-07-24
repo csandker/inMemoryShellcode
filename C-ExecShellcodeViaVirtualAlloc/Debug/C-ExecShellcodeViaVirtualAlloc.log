@@ -1,0 +1,3 @@
+﻿  Main.c
+E:\VS_WS\C-ExecShellcodeViaVirtualAlloc\Main.c(9): warning C4133: 'function': incompatible types - from 'char [19]' to 'LPCWSTR'
+  C-ExecShellcodeViaVirtualAlloc.vcxproj -> E:\VS_WS\C-ExecShellcodeViaVirtualAlloc\Debug\C-ExecShellcodeViaVirtualAlloc.exe

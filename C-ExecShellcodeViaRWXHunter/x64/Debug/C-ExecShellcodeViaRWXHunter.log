@@ -1,0 +1,8 @@
+﻿  Main.c
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(29,56): warning C4312:  'type cast': conversion from 'long' to 'LPVOID' of greater size
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(33,12): warning C4477:  'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(33,12): warning C4313:  'printf': '%x' in format string conflicts with argument 1 of type 'PVOID'
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(43,39): warning C4311:  'type cast': pointer truncation from 'PVOID' to 'long'
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(45,34): warning C4311:  'type cast': pointer truncation from 'PVOID' to 'long'
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(29,1): warning C4244:  'initializing': conversion from 'SIZE_T' to 'int', possible loss of data
+  C-ExecShellcodeViaRWXHunter.vcxproj -> E:\VS_WS\C-ExecShellcodeViaRWXHunter\x64\Debug\C-ExecShellcodeViaRWXHunter.exe

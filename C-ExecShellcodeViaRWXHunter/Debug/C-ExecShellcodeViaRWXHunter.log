@@ -1,0 +1,3 @@
+﻿  Main.c
+E:\VS_WS\C-ExecShellcodeViaRWXHunter\Main.c(33,12): warning C4477:  'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+  C-ExecShellcodeViaRWXHunter.vcxproj -> E:\VS_WS\C-ExecShellcodeViaRWXHunter\Debug\C-ExecShellcodeViaRWXHunter.exe
